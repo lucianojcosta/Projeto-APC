@@ -1,6 +1,5 @@
 """
 Módulo com toda a lógica de cálculos do projeto
-Baseado na especificação do projeto Bitcoin Sustentável
 """
 
 class CalculadoraBitcoin:
@@ -211,4 +210,5 @@ class CalculadoraBitcoin:
 
     def get_dados_estado(self, estado):
         """Retorna dados completos de um estado"""
+
         return self.ESTADOS_BRASIL.get(estado)
