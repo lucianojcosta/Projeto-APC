@@ -37,6 +37,43 @@ Pesquisar sobre placas de vídeos e ASICs |
 ANTENOR - 
 Pesquisa dados sobre Placas Solares - Tipos de placas solares | Valores | Tamanhos | Vida útil
 
+Tipo de Placas solares por tipo de célula:
+
+Tipo de células| Eficiência | Custo  | Espaço necessário | Vida útil aproximada
+Monocristalina |   Alta     | Alto   | Menor             | 25–30 anos
+Policristalina |   Média    | Médio  | Maior             | 20–25 anos
+Filme fino     |   Baixa    | Baixo  | Muito maior       | 10–20 anos
+
+Valores por placa solar, ordenados pela Potência:
+
+Potência,Modelo/Marca,Preço à vista,Tipo,Custo por Watt (R$/W)
+10W,Resun (RSM-010P),R$ 160,43,Policristalino,16,04
+20W,Risen,R$ 173,18,Policristalino,8,66
+30W,Ztroon (ZTP-30M),R$ 129,76,Monocristalino,4,33
+60W,Ztroon (ZTP-60M),R$ 199,00,Monocristalino,3,32
+100W,Ztroon (ZTP-100MI),R$ 299,00,Monocristalino,2,99
+150W,Resun (RS6E-150P),R$ 608,50,Policristalino,4,06
+160W,Ztroon (ZTP-160M),R$ 369,00,Monocristalino,2,31
+200W,ZTF-200M Flexível,R$ 1.740,96,Monocristalino,8,7
+280W,Sinosola,R$ 592,43,Policristalino,2,12
+300W,Canadian (CS3U-300P),R$ 499,00,Policristalino,1,66
+360W,Canadian Bifacial HalfCell,R$ 729,14,Policristalino,2,03
+365W,Canadian Half Cell Bi-Partida,R$ 591,31,Policristalino,1,62
+385W,Canadian Mono Bifacial,R$ 619,38,Monocristalino,1,61
+425W,Canadian HiKu Bi-Partida,R$ 502,20,Policristalino,1,18
+450W,Canadian Mono HiKu Bi-Partida,R$ 763,35,Monocristalino,1,7
+450W,JA Solar Mono,R$ 985,18,Monocristalino,2,19
+455W,Canadian Mono (CS3W-455MS),R$ 539,10,Monocristalino,1,18
+535W,Canadian Mono Bifacial,R$ 776,31,Monocristalino,1,45
+540W,JA Solar Mono Bifacial,R$ 711,45,Monocristalino,1,32
+570W,Canadian Bifacial TOPBiHiKu6,R$ 689,00,Monocristalino,1,21
+570W,Renesola Mono,R$ 494,10,Monocristalino,0,87
+580W,Solar N Plus Bifacial TOPCon,R$ 598,99,Monocristalino,1,03
+595W,Znshine Mono Grafeno,R$ 539,10,Monocristalino,0,91
+660W,Canadian Bifacial Mono,R$ 773,10,Monocristalino,1,17
+
+
+
 LUCIANO -
 Revisar as funções atuais do projeto.
 
