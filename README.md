@@ -3,15 +3,15 @@
 
 ---
 
-# Apresentação do Projeto
+# 📋 Apresentação do Projeto
 
 O projeto tem como objetivo busca uma alternativa com placas solares para reduzir o impacto ambiental da mineração de Bitcoin, propondo uma solução sustentável e viável com o uso de energia solar.
 
 A iniciativa avalia se é possível manter uma estação de mineração apenas com energia limpa e em quanto tempo o investimento se pagaria.
 
-Questões norteadoras:
-É possível manter uma mineração de Bitcoin apenas com energia solar?
-Em quanto tempo o investimento inicial se pagaria?
+***Questões norteadoras:***
+- É possível manter uma mineração de Bitcoin apenas com energia solar?
+- Em quanto tempo o investimento inicial se pagaria?
 
 O sistema permite ao usuário simular cenários com base no orçamento, local de instalação e custo da energia, calculando a potência necessária, o custo da estrutura solar e a rentabilidade do projeto.
 
@@ -49,24 +49,24 @@ bitcoin-sustentavel/
 
 ## Passo a Passo
 
-1. Fazer o donwload da pasta do projeto no computador
-   Realizar download conforme print abaixo.
+1. Download do projeto
+   - Faça o download do projeto como arquivo ZIP, conforme print abaixo.
    ![alt text](./static/imgs/readme/executar_projeto_1.png)
-   Após baixar a pasta, extrair os arquivos no computador
+   - Extraia os arquivos para uma pasta local
 
-2. Verificar o caminho que a pasta ficou salva no computador
-   O caminho da pasta pode ser visualizada conforme print abaixo.
+2. Navegue até a pasta do projeto
+   - Verifique o caminho da pasta, conforme print abaixo.
    ![alt text](./static/imgs/readme/executar_projeto_2.png)
-   Copiar o link esse caminho
+   - Copie esse caminho
 
-3. Executar o Terminal do Computador
-   Clique Windows + R
-   E digite "cmd", conforme print abaixo.
+3. Executar o Prompt de Comando
+   - Clique Windows + R
+   - E digite "cmd" e pressione Enter, conforme print abaixo.
    ![alt text](./static/imgs/readme/executar_projeto_3.png)
 
 4. No terminal, digitar:
    ```bash
-   cd "LOCAL DA PASTA"
+   cd "LOCAL_DA_PASTA_COPIADA_ANTERIORMENTE"
    ```
    Exemplo:
    ```bash
