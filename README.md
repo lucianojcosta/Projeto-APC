@@ -35,6 +35,9 @@ Projeto- Algoritmo e Programação de Computadores
    
    python app.py
 
+7. No navegador, acessar a página:  
+   http://127.0.0.1:5000/
+
 ---
 
 # Alunos Participantes
@@ -45,7 +48,3 @@ Projeto- Algoritmo e Programação de Computadores
 4. **Luciano José Rocha Costa** – 252026627
 
 ---
-
-
-7. No navegador, acessar a página:  
-   http://127.0.0.1:5000/
