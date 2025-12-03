@@ -21,9 +21,7 @@
 # Como Executar o Projeto
 
 1. Baixar os arquivos do projeto em uma pasta do computador
-   ```
-   ![alt text](./static/imgs/readme/bitcoin%20sustentavel.png)
-   ```
+   ![alt text](./static/imgs/readme/executar_projeto_1.png)
 4. Executar Windows + R = cmd
 
 5. No terminal, digitar:
