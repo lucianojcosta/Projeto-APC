@@ -50,8 +50,8 @@ bitcoin-sustentavel/
 ## Passo a Passo
 
 1. Download do projeto
-   - Faça o download do projeto como arquivo ZIP, conforme print abaixo.
-   ![alt text](./static/imgs/readme/executar_projeto_1.png)
+   - Faça o download do projeto como arquivo ZIP, por meio do link abaixo.
+   - https://github.com/lucianojcosta/bitcoin-sustentavel/archive/refs/heads/main.zip
    - Extraia os arquivos para uma pasta local
 
 2. Navegue até a pasta do projeto
