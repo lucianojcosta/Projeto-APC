@@ -56,13 +56,13 @@ bitcoin-sustentavel/
 
 2. Navegue até a pasta do projeto
    - Verifique o caminho da pasta, conforme print abaixo.
-   ![alt text](./static/imgs/readme/executar_projeto_2.png)
+   - ![alt text](./static/imgs/readme/executar_projeto_2.png)
    - Copie esse caminho
 
 3. Executar o Prompt de Comando
    - Clique Windows + R
    - E digite "cmd" e pressione Enter, conforme print abaixo.
-   ![alt text](./static/imgs/readme/executar_projeto_3.png)
+   - ![alt text](./static/imgs/readme/executar_projeto_3.png)
 
 4. No terminal, digitar:
    ```bash
